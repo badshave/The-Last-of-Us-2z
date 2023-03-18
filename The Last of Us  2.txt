@@ -1,0 +1,18 @@
+#EXTINF:-1 xui-id="950594" tvg-name="The Last of Us S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg" group-title="On-Air",The Last of Us S01E01
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_DC_uJXFbOFLd_VHqUsD3FJGD8y2lgO9suGbK9McYQgXQ
+#EXTINF:-1 xui-id="1006130" tvg-name="The Last of Us S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg" group-title="On-Air",The Last of Us S01E02
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_CUcFRQo8QWq6donvjxjoaRkg1Kc4OXWw14JsZsBnUbWg
+#EXTINF:-1 xui-id="949963" tvg-name="The Last of Us S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg" group-title="On-Air",The Last of Us S01E03
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_BB8NCmb9GFFcuecr-I6ijljglj6hPsWJFGR0rSS2hMIw
+#EXTINF:-1 xui-id="1006132" tvg-name="The Last of Us S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/szQ95jxKNrYWnCAJx8VC51iws5d.jpg" group-title="On-Air",The Last of Us S01E04
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_DS-7AS-mT4ktdIth_EYeVJ2uuzSbvQvANjJZQ6kkK-5A
+#EXTINF:-1 xui-id="988847" tvg-name="The Last of Us S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/cX2z8FO9lKqZmBBTVF2G2favQRE.jpg" group-title="On-Air",The Last of Us S01E05
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_BNa7sd272QBrMAbm_rICj3CFED3bG9Zv1bFfgPZovcKw
+#EXTINF:-1 xui-id="950589" tvg-name="The Last of Us S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg" group-title="On-Air",The Last of Us S01E06
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_BDg2SmW1YwMwUbIDUGX0aFThC44ZVdQA88W2XItplqwA
+#EXTINF:-1 xui-id="949964" tvg-name="The Last of Us S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/grrTkpBGcQSgu78iResLgbJlvUE.jpg" group-title="On-Air",The Last of Us S01E07
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_DRfL6iRKtVtBalKdO8Y9PC565fDzQUfqASJyJqO_sBqg
+#EXTINF:-1 xui-id="991016" tvg-name="The Last of Us S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/6DHQgB85iKMcabcKvC9HSDH3UDo.jpg" group-title="On-Air",The Last of Us S01E08
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_BN5Asz7IlQWvF_kCE8R-312x2zbtnxMwb5RPgjeUaUMg
+#EXTINF:-1 xui-id="1006131" tvg-name="The Last of Us S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/qFouIBgN3Jgba7LnuRmkTAohh07.jpg" group-title="On-Air",The Last of Us S01E09
+https://anti-freeze.xyz:443/play/itrg8YRbfIevNJEU4hBKV9QmzW4eWYeQ-xVRMOcZU_DtJ6bPnP2UeOOyOOpVDqPBuHSatuqLGZrkuNYWeQd_GA
